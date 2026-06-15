@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Pb7PSRYx-VCgsQvfo_fu">
+    <mxGraphModel dx="860" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jkcWPqH9YEO6JfAwA3Im-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Invité&amp;nbsp;&lt;br&gt;(non connecté)" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="jkcWPqH9YEO6JfAwA3Im-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Membre&amp;nbsp;&lt;br&gt;(connecté)" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="jkcWPqH9YEO6JfAwA3Im-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Admin" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="jkcWPqH9YEO6JfAwA3Im-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="761" as="sourcePoint" />
+            <mxPoint x="120" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
